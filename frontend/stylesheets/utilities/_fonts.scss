@@ -1,0 +1,26 @@
+.slide-text {
+  p {
+    font-size: 3.125em;
+    color: $bgBody;
+   }
+}
+
+.title, .footer-top {
+  h2 {
+    padding: 10px 0 0 20px;
+    font-size: 0.9375em;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+}
+.text {
+  p, a {
+    font-size: 0.8125em;
+  }
+}
+
+.footer-top {
+  h2 {
+    padding: 0 0 16px 0;
+  }
+}
